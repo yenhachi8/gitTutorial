@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("hello")
         print("commit")
         print("viewcontroller")
+        print("change")
     }
 
 
