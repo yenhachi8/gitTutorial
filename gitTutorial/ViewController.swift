@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         print("commit")
         print("viewcontroller")
         print("change")
+        print("gogogo viewcontroller change merge to main")
+        
     }
 
 
