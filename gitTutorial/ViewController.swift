@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("change")
         print("gogogo viewcontroller change merge to main")
         print("1531")
+        print("1539")
         
     }
 
